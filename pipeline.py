@@ -1,6 +1,7 @@
 import pandas as pd
 import sys
 
+#system arguments/parameters
 print(sys.argv)
 
 day = sys.argv[1]
